@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-Author - Pranjal Mangal
+Author - Pranjal agrawal
